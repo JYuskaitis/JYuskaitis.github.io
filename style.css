@@ -67,6 +67,7 @@
         font-weight: normal;
         padding-left: 75px;
         text-shadow: 2px 2px 5px darkgrey;
+        text-align: center;
     }
     
     .main-header-intro {
